@@ -1,0 +1,26 @@
+input {
+    margin-bottom: 15px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.left-section .form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.right-section .flex {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: antiquewhite;
+}
+
+.bolded {
+    font-weight: bolder;
+}
